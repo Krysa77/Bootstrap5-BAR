@@ -1,0 +1,25 @@
+footer {
+  text-align: center;
+  padding: 3px;
+  background-color: #f8f9fa;
+  color: rgb(0, 0, 0);
+  bottom: 0;
+  width: 100%;
+  position: sticky;
+  height: 2.5rem;
+  font-weight: 500;
+}
+
+h1 {
+  text-align: center;
+}
+
+#main {
+  margin: 0 auto;
+  max-width: 80%;
+}
+
+.p1 {
+  text-align: left;
+  font-size: large;
+}
